@@ -7,8 +7,8 @@ Version: Version 1.0. Updated Sept 2016.
 The Sarcasm Corpus V1 is a subset of the Internet Argument Corpus, including response text from quote-response pairs annotated for sarcasm.
 
 ## The Data
-- 1000 response texts labeled as not sarcastic (in not_sarc/)
-- 1000 response texts labeled as sarcastic (in sarc/)
+- 997 response texts labeled as not sarcastic (in notsarc/)
+- 998 response texts labeled as sarcastic (in sarc/)
 
 ## Citation
 If you use this data in your research, please refer to and cite:
