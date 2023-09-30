@@ -2,6 +2,8 @@
 
 Version: Version 1.0. Updated Sept 2016.
 
+This page was migrated from [https://nlds.soe.ucsc.edu/](https://nlds.soe.ucsc.edu/) on Sept 2023.
+
 ## Overview
 
 The Sarcasm Corpus V1 is a subset of the Internet Argument Corpus, including response text from quote-response pairs annotated for sarcasm.
